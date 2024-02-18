@@ -1,9 +1,9 @@
 const Navbar = () => {
     return (
-        <div className="h-full flex items-center  ">
-            <div>1</div>
-            <div>2</div>
-        </div>
+      <div className="flex">  
+        <div>1</div>
+        <div>1</div>
+      </div>
     )
 }
 
