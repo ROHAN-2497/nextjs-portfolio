@@ -1,8 +1,8 @@
 const Navbar = () => {
     return (
-      <div className="flex">  
-        <div>1</div>
-        <div>1</div>
+      <div className="flex p-4 ">  
+        <div className="w-full">1</div>
+        <div className="text-2xl">1</div>
       </div>
     )
 }
